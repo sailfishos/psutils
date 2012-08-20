@@ -1,3 +1,7 @@
+* Mon Aug 20 2012 Antti Alatarvas <antti.alatarvas@gmail.com> - 1.17-28
+- Changed psutils.spec URL and Source
+- Fixes MER#267 : psutils spec file has no URL entry (nor Source URL)
+
 * Wed Feb 13 2008 Tomas Smetana <tsmetana@redhat.com> - 1.17-28
 - rebuild (gcc-4.3)
 

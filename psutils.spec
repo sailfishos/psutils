@@ -5,7 +5,8 @@ Version: 1.17
 Release: 28
 License: distributable
 Group: Applications/Publishing
-Source: psutils-p17.tar.gz
+URL: http://www.ctan.org/pkg/psutils
+Source: http://www.ctan.org/tex-archive/support/psutils/psutils-p17.tar.gz
 Patch0: psutils-p17-Makefile.patch
 Patch1: psutils-p17-misc.patch
 Patch2: psutils-p17-paper.patch
