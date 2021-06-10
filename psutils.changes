@@ -1,3 +1,6 @@
+* Thu Jun 10 2021 Niels Breet <niels.breet@jolla.com> - 1.17-29
+- Fix changelog. Contributes to JB#52914
+
 * Mon Aug 20 2012 Antti Alatarvas <antti.alatarvas@gmail.com> - 1.17-28
 - Changed psutils.spec URL and Source
 - Fixes MER#267 : psutils spec file has no URL entry (nor Source URL)
@@ -102,7 +105,7 @@
 - Added patch to compile everything cleanly
 - Some minor changes to specfile
 
-* Thu Mar 27 1997 Tomasz K³oczko <kloczek@rudy.mif.pg.gda.pl>
+* Thu Mar 27 1997 Tomasz KÂ³oczko <kloczek@rudy.mif.pg.gda.pl>
   - new version:
     Patchlevel 17 had some minor bugfixes and improvements
     - Trailer information now put before %%EOF comments if no %%Trailer
