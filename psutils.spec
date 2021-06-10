@@ -2,7 +2,7 @@
 Summary: PostScript Utilities
 Name: psutils
 Version: 1.17
-Release: 28
+Release: 29
 License: distributable
 Group: Applications/Publishing
 URL: http://www.ctan.org/pkg/psutils
